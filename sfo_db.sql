@@ -6,10 +6,13 @@ CREATE TABLE delays (
   unique_carrier TEXT,
   year INT,
   month INT,
-  week_day INT
+  week_day INT,
+  origin TEXT,
+  destination TEXT
 );
 
 CREATE TABLE landings (
+ id INT PRIMARY KEY,
   unique_carrier TEXT,
   year INT,
   month INT,
@@ -30,6 +33,9 @@ CREATE TABLE passengers (
   passengers_number INT
 );
 
+
 SELECT * FROM delays;
 SELECT * FROM landings;
 SELECT * FROM passengers;
+
+            
