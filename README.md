@@ -9,7 +9,7 @@ San Francisco International Airport has a very specific runway system. It has fo
 *Runway 10L/28R
 *Runway 10R/28L
 
-![SFO map](https://en.wikipedia.org/wiki/San_Francisco_International_Airport#/media/File:SFO_Map.svg)
+![SFO map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SFO_Map.svg/1920px-SFO_Map.svg.png)
 
 Runways are named for their magnetic heading, to the nearest ten degrees; 
 During normal operations (approximately 81% of the time), domestic departures use Runways 1L and 1R for departure while overseas international departures and all arrivals use Runways 28L and 28R, taking advantage of the prevailing west-northwesterly wind coming through the San Bruno Gap. During periods of heavy winds or if operations at [Oakland International Airport](https://en.wikipedia.org/wiki/Oakland_International_Airport) conflict with SFO departures (approximately 15% of the time), Runways 1L and 1R cannot be used, and so all departures and all arrivals use Runways 28L and 28R. These configurations are known collectively as the West Plan, and accommodate arrivals at a rate of up to 60 aircraft per hour.
