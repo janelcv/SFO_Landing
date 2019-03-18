@@ -19,25 +19,3 @@ On rare occasions (less than one day per year, on average), wind conditions dict
 Due to weather conditons and the specific runway sytem San Francisco International Airport experiencieng a very high level of delays. 
 
 This project aimed to extract data about the SFO Air Traffic and Carrier On-Time Performance In US  from publicly available resources, scrape information about Aircrafts from Federal Aviation Administartion webpage, transform the data, and load the data into a database.
-
-## Methodology
-Three Jupyter notebooks were used for extracting, transforming, and loading data:
-
-1. []()
-2. []()
-3. []()
-
-In addition, the MySQL database __sfo_db__ was created using the [sfo_db.sql](https://github.com/janelcv/SFO_Landing/blob/master/sfo_db.sql) script.
-
-### Extraction
-Data was collected using several sources:
-1. Data was extracted from two datasets provided by the [Kaggle](https://www.kaggle.com/san-francisco/sf-air-traffic-passenger-and-landings-statistics#air-traffic-landings-statistics.csv): (1) on SFO landings air traffic and (2) SFO passengers air traffic
-2.  Data for year 2008 was dowloaded from [Statistical Computing](http://stat-computing.org/dataexpo/2009/the-data.html).
-3. Data was collected using Web Scraping from [Federal Aviation Administartion](https://www.faa.gov/) webpage.
-
-Datasets were downloaded as csv files and extracted using Python (version 3.6) [Pandas](https://pandas.pydata.org/pandas-docs/stable/) module in separate Jupyter Notebooks. 
-
-```python
-# Dependencies
-import pandas as pd
-```
